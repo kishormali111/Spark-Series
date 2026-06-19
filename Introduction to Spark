@@ -17,7 +17,7 @@ Spark is a **Distributed Computing Engine**. Unlike a traditional database that 
 - It builds a "plan" (the DAG) and only executes it when you ask for a result
 
 ### 3. **Fault Tolerance**
-- If one of your Docker containers crashes, Spark can re-compute the missing data
+- If one of your Docker containers crashes, Spark can re-compute the missing data (This is for virtual spark setup)
 - Spark remembers the "lineage" (the steps taken to create that data)
 
 ---
