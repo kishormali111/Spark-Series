@@ -102,7 +102,7 @@ pyspark
 2. Practice with sample datasets provided in the `data/` directory
 3. Understand partitioning and lazy evaluation concepts
 4. Use `.explain()` to understand Spark execution plans
-5. Monitor performance using Spark UI (usually at http://localhost:4040)
+5. Monitor performance using Spark UI (usually at http://localhost:4040) -- this is default spark UI - if you want to work use colab install spark then try with ngrok account credientials. 
 
 ## 🤝 Contributing
 
